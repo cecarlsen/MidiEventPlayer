@@ -7,7 +7,7 @@ A MIDI event player for Unity3D based on [smflite](https://github.com/keijiro/sm
 
 Build for music visualisation, not midi sound playback.
 
-Requires Unity 2017 (tested with 2017.1.0bf1).
+Updated for Unity 2017.2.
 
 Use case
 ---------
